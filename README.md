@@ -54,10 +54,15 @@ streamlit run app.py
 📂 Project Structure
 
 📁 data-sweeper
+
  ├── app.py           # Main Streamlit app
+ 
  ├── uv_server.py     # UltraViolet Proxy Server
+ 
  ├── requirements.txt # Dependencies
+ 
  ├── README.md        # Documentation
+ 
 
 🤝 Contribution
 
