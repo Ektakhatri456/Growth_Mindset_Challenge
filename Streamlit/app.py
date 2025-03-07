@@ -5,6 +5,14 @@ import pandas as pd # type: ignore
 import os
 from io import BytesIO
 
+#Building profile:
+st.sidebar.image("https://avatars.githubusercontent.com/u/170619187?s=400&u=f758c87ccd8a92db5993514049855df20f7d80aa&v=4", width=100)
+st.sidebar.markdown("### Ekta Khatri")
+st.sidebar.markdown("💼 **Developer**")
+st.sidebar.markdown("[🔗 Streamlit] (https://share.streamlit.io/user/ektakhatri456)")
+st.sidebar.markdown("[🔗 LinkedIn] (https://www.linkedin.com/in/ekta-khatri-7b6b4a1a8/)")
+
+
 #setup our app:
 
 st.set_page_config(page_title="💿Data sweeper", layout='wide')
